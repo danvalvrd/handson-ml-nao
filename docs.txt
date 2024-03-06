@@ -1,1 +1,5 @@
+Docs.txt Branch A
 Docs.txt Branch B
+
+Decidi mantener ambos cambios
+Conflicto resuelto
